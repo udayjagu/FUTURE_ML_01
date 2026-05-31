@@ -35,6 +35,25 @@ This project forecasts future sales using historical business data from the Supe
 
 ## Results
 
+## Model Performance
+
+* MAE: 18041.64
+* RMSE: 23416.38
+
+## Future Sales Forecast
+
+Month 1: 63485.52
+
+Month 2: 64185.07
+
+Month 3: 64884.62
+
+Month 4: 65584.16
+
+Month 5: 66283.71
+
+Month 6: 66983.26
+
 * Successfully forecasted future sales trends.
 * Generated business-friendly visualizations.
 * Evaluated model performance using MAE and RMSE metrics.
